@@ -1,0 +1,87 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+
+.logo{
+	width: 150px;
+	margin-top: 10px;
+}
+
+li{
+	font-family: 'Oswald', sans-serif;
+	color: #01579b;
+}
+
+#caption{
+	margin-top: 250px;
+}
+
+.btn-large{
+	background-color: #01579b;
+	border: 1px solid white;
+	margin: 5px;
+	text-transform: unset;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 24px;
+
+}
+
+.card-image,#auth{
+	height: 200px;
+}
+
+#macpro{
+	height: 200px;
+	width: 100%;
+}
+
+.carousel{
+	margin-top: 0;
+}
+
+#iconsec{
+	height: 60px;
+}
+
+.foo{
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+.input-field{
+	background-color: #01579b;
+}
+
+
+
+
+
+
+
+/*mobile*/
+@media only screen
+and (min-device-width : 320px)
+and (max-device-width : 480px) {
+
+
+
+}
+
+/*tablet*/
+
+@media only screen 
+and (min-width: 481px) 
+and (max-width: 960px)
+{
+	
+}
